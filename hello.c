@@ -4,3 +4,4 @@ int main(){
 	print(a);
 	return 0;
 }
+//调和级数 四份打发ad份
