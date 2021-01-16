@@ -1,10 +1,11 @@
 int main(){
 	int j=1;
-	int i=5;
-	while(i--){
+
+	while(i++){//--changed to ++
 		j++;
 	}
 	return j;
 	
 }
 // this is new added
+// this is new added 
